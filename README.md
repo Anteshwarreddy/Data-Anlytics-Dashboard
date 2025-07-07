@@ -29,6 +29,7 @@ An interactive and insightful dashboard analyzing global airport data to underst
 - Visuals used: Cards, Donut Charts, Bar Charts, Line Charts, Geographic Maps
 
 ## 📸 Dashboard Preview
+-<a herf= "https://github.com/Anteshwarreddy/Data-Anlytics-Dashboard/blob/main/Dashboard%20Screenshot%20.png">Dashboard</a>
 
 
 ## 📈 Key Insights
