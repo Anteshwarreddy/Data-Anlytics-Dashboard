@@ -5,9 +5,7 @@ An interactive and insightful dashboard analyzing global airport data to underst
 -To design a dynamic *Power BI dashboard* that provides a comprehensive overview of world airport data. The goal is to help stakeholders understand which countries and continents have high or low airport densities, the distribution of airport types, and the role of elevation and geography in airport planning
 
 ## 📁 Dataset Used
-
 -<a href= "https://in.search.yahoo.com/search?fr=mcafee&type=E210IN885G0&p=World_Airports+Dataset.csv">Dataset</a>
-
 
 ## 📊 Key Questions Answered (KPIs)
 
@@ -31,16 +29,12 @@ An interactive and insightful dashboard analyzing global airport data to underst
 ## 📸 Dashboard Preview
 -<a href= "https://github.com/Anteshwarreddy/Data-Anlytics-Dashboard/blob/main/Dashboard%20Screenshot%20.png">View Dashboard</a>
 
-
 ## 📈 Key Insights
 
-- 🇺🇸 The United States has the most airports worldwide.
 - 🌍 North America and Europe dominate global airport infrastructure.
 - 🏔 High-altitude airports are commonly found in South America and Central Asia.
 - ✈ Majority of airports are small or regional, with a limited number of international airports.
 - 🌐 Some populous countries still have limited airport access, highlighting infrastructure needs.
-
----
 
 ## ✅ Conclusion
 
